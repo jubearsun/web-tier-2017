@@ -78,6 +78,8 @@ to do if you're stuck.
 * After downloading the package manager, `cmd-shift-p` and search "Install Package"
 * Install the following:
   * Emmet
+    * in `.js` and `.jsx` files, you will need to follow [these instructions](http://wesbos.com/emmet-react-jsx-sublime/)
+    for Emmet to work
   * FakeImg
   * Sass
   * Babel
