@@ -11,6 +11,7 @@
 ## Tier Photoshoot Theme
 * We get a green screen so we can come up with any theme we want and any backdrop
 * We can bring props!
+* Photoshoot will be NEXT TUESDAY 5-7, please mark your calendars
 
 # Cool Things You Can Do With CSS
 
