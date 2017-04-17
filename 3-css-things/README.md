@@ -1,3 +1,17 @@
+# Logistics
+
+## Officer Infosession
+* This Wednesday at 9PM in Barrows!
+* Learn about all the officer positions available next year
+* ALSO learn about being on marketing tier and what it entails!
+* You can always ask me for the deets :) :) 
+* If you're interested in either officer board or being on marketing as a member,
+  PLEASE let me know now!
+
+## Tier Photoshoot Theme
+* We get a green screen so we can come up with any theme we want and any backdrop
+* We can bring props!
+
 # Cool Things You Can Do With CSS
 
 I think all too often people focus on making cool animations and effects with javascript and don't
